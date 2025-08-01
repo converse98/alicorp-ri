@@ -1,0 +1,1073 @@
+{
+  "documentLayout": {
+    "blocks": [{
+      "blockId": "1",
+      "textBlock": {
+        "text": "Reporte Integrado 2023",
+        "type": "paragraph"
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 1
+      }
+    }, {
+      "blockId": "2",
+      "textBlock": {
+        "text": "Gestión del cambio climático",
+        "type": "heading-1",
+        "blocks": [{
+          "blockId": "3",
+          "textBlock": {
+            "text": "[13.3] 13 ΑΙΜΑ ACCIÓN",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 1,
+            "pageEnd": 1
+          }
+        }, {
+          "blockId": "4",
+          "textBlock": {
+            "text": "0",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 1,
+            "pageEnd": 1
+          }
+        }, {
+          "blockId": "5",
+          "textBlock": {
+            "text": "Nuestra estrategia de acción climática fue construida a partir de una autoevaluación alineada a las recomendaciones del Task Force on Climate Related Financial Disclosures (TCFD). A partir de este análisis, elaboramos una hoja de ruta para la reducción de la huella de carbono a corto, mediano y largo plazo para cerrar las brechas identificadas y consolidar nuestra gestión climática.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 1,
+            "pageEnd": 1
+          }
+        }, {
+          "blockId": "6",
+          "textBlock": {
+            "text": "En línea con esta hoja de ruta, en 2023 definimos la gobernanza y estrategia de acción climática y sus componentes de mitigación, reduciendo nuestras huellas de carbono e hídrica, y de adaptación de nuestras operaciones al cambio climático, mediante la gestión de riesgos físicos y de transición.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 1,
+            "pageEnd": 1
+          }
+        }, {
+          "blockId": "7",
+          "textBlock": {
+            "text": "Principales avances de la estrategia de acción climática",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 1,
+            "pageEnd": 1
+          }
+        }, {
+          "blockId": "8",
+          "textBlock": {
+            "text": "Ο",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 1,
+            "pageEnd": 1
+          }
+        }, {
+          "blockId": "9",
+          "textBlock": {
+            "text": "Componente de mitigación. Gestionamos nuestra huella de carbono logrando una reducción de 9% de nuestras emisiones de alcance 1 y 2 en Perú respecto al 2022.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 1,
+            "pageEnd": 1
+          }
+        }, {
+          "blockId": "10",
+          "textBlock": {
+            "text": "Componente de adaptación. Realizamos la primera evaluación de riesgos climáticos físicos, priorizando 17 predios que representan el 50% de los predios de mayor importancia operacional. El análisis se enfocó en tres eventos climáticos: inundaciones, deslizamientos de tierra y lluvias torrenciales.",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 1,
+            "pageEnd": 1
+          }
+        }, {
+          "blockId": "11",
+          "textBlock": {
+            "text": "Para más información sobre nuestra gobernanza y estrategia de acción climática ver nuestro Reporte de Acción Climática Alicorp 2022-2023",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 1,
+            "pageEnd": 1
+          }
+        }, {
+          "blockId": "12",
+          "textBlock": {
+            "text": "☆",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 1,
+            "pageEnd": 1
+          }
+        }, {
+          "blockId": "13",
+          "textBlock": {
+            "text": "DESPACHO",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 1,
+            "pageEnd": 1
+          }
+        }, {
+          "blockId": "14",
+          "textBlock": {
+            "text": "82",
+            "type": "paragraph"
+          },
+          "pageSpan": {
+            "pageStart": 1,
+            "pageEnd": 1
+          }
+        }, {
+          "blockId": "15",
+          "textBlock": {
+            "text": "Reporte Integrado 2023",
+            "type": "header"
+          },
+          "pageSpan": {
+            "pageStart": 2,
+            "pageEnd": 2
+          }
+        }, {
+          "blockId": "16",
+          "textBlock": {
+            "text": "HUELLA DE CARBOΝΟ",
+            "type": "heading-2",
+            "blocks": [{
+              "blockId": "17",
+              "textBlock": {
+                "text": "ENERGIA ASFQUIBLE 71ND CONTAMINANTI",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 2,
+                "pageEnd": 2
+              }
+            }, {
+              "blockId": "18",
+              "textBlock": {
+                "text": "ACCIÓN 13 POR EL CLIMA",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 2,
+                "pageEnd": 2
+              }
+            }, {
+              "blockId": "19",
+              "textBlock": {
+                "text": "0",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 2,
+                "pageEnd": 2
+              }
+            }]
+          },
+          "pageSpan": {
+            "pageStart": 2,
+            "pageEnd": 2
+          }
+        }, {
+          "blockId": "20",
+          "textBlock": {
+            "text": "Gestión de emisiones de gases de efecto invernadero (GEI) de categorías 1 y 2",
+            "type": "heading-2",
+            "blocks": [{
+              "blockId": "21",
+              "textBlock": {
+                "text": "EMISIONES TOTALES DE CATEGORÍA 1 (tCO_{2}e)",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 2,
+                "pageEnd": 2
+              }
+            }, {
+              "blockId": "22",
+              "textBlock": {
+                "text": "EMISIONES TOTALES DE CATEGORÍA 2 (tCO_{2}e)",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 2,
+                "pageEnd": 2
+              }
+            }, {
+              "blockId": "23",
+              "textBlock": {
+                "text": "NUESTRA META AL 2030",
+                "type": "heading-3",
+                "blocks": [{
+                  "blockId": "24",
+                  "textBlock": {
+                    "text": "LOGRAR UNA REDUCCIÓN NETA DE 20% DE EMISIONES DE GEI (Gases de Efecto Invernadero) por tonelada de producto terminado y del 10% de emisiones absolutas, con respecto al año 2022, en nuestras",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "25",
+                  "textBlock": {
+                    "text": "62,346.17",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "26",
+                  "textBlock": {
+                    "text": "60,119.09",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "27",
+                  "textBlock": {
+                    "text": "65,000",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "28",
+                  "textBlock": {
+                    "text": "60,000",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "29",
+                  "textBlock": {
+                    "text": "52,987.53",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "30",
+                  "textBlock": {
+                    "text": "En 2023, en Alicorp S.A.A. alcanzamos un",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "31",
+                  "textBlock": {
+                    "text": "55,000",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "32",
+                  "textBlock": {
+                    "text": "total de emisiones de 77,931.21^{40} toneladas",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "33",
+                  "textBlock": {
+                    "text": "de CO_{2} equivalente, que representa una disminución del 9% respecto al año 2022, debido principalmente a la ejecución de 17",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "34",
+                  "textBlock": {
+                    "text": "50,000",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "35",
+                  "textBlock": {
+                    "text": "45,000",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "36",
+                  "textBlock": {
+                    "text": "operaciones de Perú y Bolivia",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "37",
+                  "textBlock": {
+                    "text": "proyectos de reducción de consumo de",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "38",
+                  "textBlock": {
+                    "text": "para las categorías 1, 2 y 3.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "39",
+                  "textBlock": {
+                    "text": "40,000",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "40",
+                  "textBlock": {
+                    "text": "energía, acompañados de menores volúmenes",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "41",
+                  "textBlock": {
+                    "text": "de producción.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "42",
+                  "textBlock": {
+                    "text": "35,000",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "43",
+                  "textBlock": {
+                    "text": "Nuestras emisiones de Categoría 1 (52,987.53 tCO_{2}e tuvieron una reducción del 11.8%",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "44",
+                  "textBlock": {
+                    "text": "30,000",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "45",
+                  "textBlock": {
+                    "text": "25,810.95",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "46",
+                  "textBlock": {
+                    "text": "24,943.68",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "47",
+                  "textBlock": {
+                    "text": "respecto al 2022, debido al menor uso de",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "48",
+                  "textBlock": {
+                    "text": "25,000",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "49",
+                  "textBlock": {
+                    "text": "combustibles en maquinaria estacionaria y en generadores eléctricos.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "50",
+                  "textBlock": {
+                    "text": "19,000.77",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "51",
+                  "textBlock": {
+                    "text": "20,000",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "52",
+                  "textBlock": {
+                    "text": "Por otra parte, las emisiones de Categoría 2 tuvieron una reducción del 3.4%, respecto al 2022, alcanzando un total de 24,943.68 tCO_{2}. Uno de los factores que contribuyó a este resultado fue la instalación y puesta en marcha de paneles solares en nuestra planta de Arequipa, que tuvo un máximo de potencia instalada de 130kW.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "53",
+                  "textBlock": {
+                    "text": "15,000",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "54",
+                  "textBlock": {
+                    "text": "10,000",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "55",
+                  "textBlock": {
+                    "text": "5,000",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "56",
+                  "textBlock": {
+                    "text": "0",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "57",
+                  "textBlock": {
+                    "text": "2021",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "58",
+                  "textBlock": {
+                    "text": "2022",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "59",
+                  "textBlock": {
+                    "text": "2023",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "60",
+                  "textBlock": {
+                    "text": "2021",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "61",
+                  "textBlock": {
+                    "text": "2022",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "62",
+                  "textBlock": {
+                    "text": "2023",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "63",
+                  "textBlock": {
+                    "text": "40 Este valor representa la suma de las emisiones totales de Categoría de emisiones 1 y Categoría de emisiones 2. El alcance es Alicorp S.A.A y no incluye a otras subsidiarias.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "64",
+                  "textBlock": {
+                    "text": "83",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 2,
+                    "pageEnd": 2
+                  }
+                }, {
+                  "blockId": "65",
+                  "textBlock": {
+                    "text": "Reporte Integrado 2023",
+                    "type": "header"
+                  },
+                  "pageSpan": {
+                    "pageStart": 3,
+                    "pageEnd": 3
+                  }
+                }]
+              },
+              "pageSpan": {
+                "pageStart": 2,
+                "pageEnd": 3
+              }
+            }]
+          },
+          "pageSpan": {
+            "pageStart": 2,
+            "pageEnd": 3
+          }
+        }, {
+          "blockId": "66",
+          "textBlock": {
+            "text": "Emisiones GEI de Categoría 3 y 4",
+            "type": "heading-2",
+            "blocks": [{
+              "blockId": "67",
+              "textBlock": {
+                "text": "En 2023, nuestras emisiones indirectas de categoría 3 y 4 fueron de 1,542 millones de tCO_{2}e lo que representa una reducción del 28.5% de emisiones respecto al 2022, debido a un menor consumo de trigo y aceite de soya. Adicionalmente, logramos optimizaciones en las rutas de distribución que contribuyeron a este resultado.",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }]
+          },
+          "pageSpan": {
+            "pageStart": 3,
+            "pageEnd": 3
+          }
+        }, {
+          "blockId": "68",
+          "textBlock": {
+            "text": "GESTIÓN DE LA ENERGÍA EMERGIA ASFOURBLE [7.1] 71ND CONTAMINARTE EN LAS OPERACIONES",
+            "type": "heading-2",
+            "blocks": [{
+              "blockId": "69",
+              "textBlock": {
+                "text": "Nuestras metas de ahorro de consumo de energía eléctrica fueron ampliamente superadas, logrando reducciones de consumo de más de 7.5 millones de kWh en el Predio Central, SIDSUR Arequipa y los Molinos \"Callao\" y \"Arequipa\".",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "70",
+              "textBlock": {
+                "text": "Nuestro consumo total de energía fue de 396,256,604 kWh, del cual el 16% provino de energía renovable.",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "71",
+              "textBlock": {
+                "text": "Los hitos más relevantes del año 2023 en materia energética fueron:",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "72",
+              "textBlock": {
+                "text": "Ο",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "73",
+              "textBlock": {
+                "text": "Ο",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "74",
+              "textBlock": {
+                "text": "Ο",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "75",
+              "textBlock": {
+                "text": "Ο",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "76",
+              "textBlock": {
+                "text": "Instalación de paneles solares: implementamos la primera etapa de paneles solares en la planta Sidsur en Arequipa, los cuales generaron 136 MWh.",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "77",
+              "textBlock": {
+                "text": "Reemplazo de tecnología:",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "78",
+              "textBlock": {
+                "text": "logramos el ahorro de 410,000",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "79",
+              "textBlock": {
+                "text": "KWh gracias al cambio de",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "80",
+              "textBlock": {
+                "text": "luminarias de halogenuros metálicos por luminarias LED.",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "81",
+              "textBlock": {
+                "text": "Reducción del consumo de gas natural: mejoramos la eficiencia de las calderas de la planta",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "82",
+              "textBlock": {
+                "text": "Copsa, nuestra principal planta de aceites, mediante el control de flujo, presión, nivel y temperatura, reduciendo 3% el consumo",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "83",
+              "textBlock": {
+                "text": "de gas natural por tonelada de vapor producido.",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "84",
+              "textBlock": {
+                "text": "Optimización de equipos y capacidad: logramos una reducción de 62,000 KWh gracias a la ejecución de",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "85",
+              "textBlock": {
+                "text": "optimizaciones en los procesos de transformación o cambio en los niveles de tensión de una subestación eléctrica.",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "86",
+              "textBlock": {
+                "text": "84",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 3,
+                "pageEnd": 3
+              }
+            }, {
+              "blockId": "87",
+              "textBlock": {
+                "text": "Reporte Integrado 2023",
+                "type": "header"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "88",
+              "textBlock": {
+                "text": "0",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "89",
+              "textBlock": {
+                "text": "HUELLA HÍDRICA",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "90",
+              "textBlock": {
+                "text": "[6.3] 6",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "91",
+              "textBlock": {
+                "text": "AGUA LIMPIA",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "92",
+              "textBlock": {
+                "text": "HUELLA HÍDRICA 2023^{42} 70,794,694.93m³",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "93",
+              "textBlock": {
+                "text": "En Perú",
+                "type": "paragraph"
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "94",
+              "textBlock": {
+                "text": "NUESTRA META AL 2030",
+                "type": "heading-3",
+                "blocks": [{
+                  "blockId": "95",
+                  "textBlock": {
+                    "text": "REDUCIR LA HUELLA HÍDRICA por tonelada de producto terminado en 20% y la huella hídrica absoluta en 5%, ambas respecto al año 2022 y para nuestras operaciones de Perú, considerando el consumo directo de energía y combustible.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "96",
+                  "textBlock": {
+                    "text": "CONSUMO DE AGUA ANUAL43",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "97",
+                  "textBlock": {
+                    "text": "787,666m³",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "98",
+                  "textBlock": {
+                    "text": "En Perú",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }]
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }, {
+              "blockId": "99",
+              "textBlock": {
+                "text": "Gestión del agua en las operaciones",
+                "type": "heading-3",
+                "blocks": [{
+                  "blockId": "100",
+                  "textBlock": {
+                    "text": "Para la medición de nuestra huella hídrica e identificación de riesgos de estrés hídrico41 utilizamos el estándar ISO 14046 como guía metodológica. Los resultados obtenidos fueron los siguientes:",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "101",
+                  "textBlock": {
+                    "text": "DISMINUCIÓN DE LA HUELLA HÍDRICA EN",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "102",
+                  "textBlock": {
+                    "text": "41.33%",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "103",
+                  "textBlock": {
+                    "text": "respecto al 2022",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "104",
+                  "textBlock": {
+                    "text": "41 Nota sobre evaluación de estrés hídrico: Las unidades productivas de Arequipa, como SIDSUR y Molino Arequipa, están ubicadas en zonas con estrés hídrico alto. Ambas plantas cuentan con un total de 322 colaboradores y un consumo total de agua de 35,784.14 m³, lo que resulta en 111.13 m³ por colaborador al cierre de 2023. Nuestros planes de reducción de huella hídrica buscan preparar la operación ante potenciales efectos de estrés hídrico. [DJSI 2.5.3]",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "105",
+                  "textBlock": {
+                    "text": "42 Los datos de la huella hídrica incluyen consumo directo de agua y consumo indirecto derivado de energía eléctrica, combustibles e insumos. No incluyen a Vitapro. 43 El ratio de consumo es de 58.34m³ de agua por tonelada de producto terminado.",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }, {
+                  "blockId": "106",
+                  "textBlock": {
+                    "text": "85",
+                    "type": "paragraph"
+                  },
+                  "pageSpan": {
+                    "pageStart": 4,
+                    "pageEnd": 4
+                  }
+                }]
+              },
+              "pageSpan": {
+                "pageStart": 4,
+                "pageEnd": 4
+              }
+            }]
+          },
+          "pageSpan": {
+            "pageStart": 3,
+            "pageEnd": 4
+          }
+        }]
+      },
+      "pageSpan": {
+        "pageStart": 1,
+        "pageEnd": 2
+      }
+    }]
+  }
+}
