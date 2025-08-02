@@ -131,8 +131,8 @@ click==8.1.8 \
     # via
     #   typer
     #   uvicorn
-PyMuPDF
-google-generativeai
+PyMuPDF==1.24.1
+google-generativeai==0.7.1
 fastapi==0.115.11 \
     --hash=sha256:32e1541b7b74602e4ef4a0260ecaf3aadf9d4f19590bba3e1bf2ac4666aa2c64 \
     --hash=sha256:cc81f03f688678b92600a65a5e618b93592c65005db37157147204d8924bf94f
